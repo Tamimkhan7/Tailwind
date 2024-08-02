@@ -1,0 +1,6 @@
+/* all basic information are store here  */
+@tailwind base;
+/* all components are store here */
+@tailwind components;
+/* all utilities are store here */
+@tailwind utilities;
